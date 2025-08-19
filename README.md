@@ -74,4 +74,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  08/13/2025 Link is now accessible and functioning
+
+
+Update:  08/19/2025
